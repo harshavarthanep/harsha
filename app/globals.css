@@ -1,0 +1,87 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base{
+  body{
+    @apply font-roboto;
+  }
+
+  h1, h2, h3, h4, h5, h6{
+    @apply font-oswald font-bold uppercase
+  }
+  
+  h1{
+    @apply text-white text-7xl lg:text-[128px] tracking-[-3px]
+  }
+
+  h2{
+    @apply text-[36px]
+  }
+
+  h3{
+    @apply text-[32px]
+  }
+
+  h4{
+    @apply text-[26px]
+  }
+
+  h5{
+    @apply text-[22px]
+  }
+
+}
+
+.active {
+  @apply text-accent;
+}
+
+/* swiper pogination styles */
+.swiper-horizontal > .swiper-pagination-bullets .swiper-pagination-bullet,
+.swiper-horizontal.swiper-pagination-bullets .swiper-pagination-bullet {
+  @apply bg-accent;
+}
+
+/* styles/globals.css */
+@import 'leaflet/dist/leaflet.css';
+
+.no-visible-scrollbar {
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+  -webkit-overflow-scrolling: touch;
+}
+ 
+.no-visible-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+.tab-content {
+  display: block;
+  max-height: 300px; /* Adjust as needed */
+  overflow-y: auto; 
+}
+
+/* :root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+} */
