@@ -7,37 +7,37 @@ import "swiper/css/pagination";
 
 const testimonialData = [
   {
-    img: "/assets/img/testimonial/gym1.jpg",
+    img: "./assets/img/testimonial/gym1.jpg",
     message:
       "Impressed with knowledgeable & supportive trainers! Fantastic ambiance - clean & motivating. Highly recommend!",
     name: "Pawon Channd",
   },
   {
-    img: "/assets/img/testimonial/gym2.jpg",
+    img: "./assets/img/testimonial/gym2.jpg",
     message:
       "I have recently joined the DAP fitness for unisex. Great ambiance! Trainers are helpful and supportive, even without PT. Very good experience.",
     name: "Manjula Manju",
   },
   {
-    img: "/assets/img/testimonial/gym3.jpg",
+    img: "./assets/img/testimonial/gym3.jpg",
     message:
       "New gym in Sholinganallur, near Elcot/Accenture. Affordable packages with discounts. Friendly and supportive trainers.",
     name: "Dinesh",
   },
   {
-    img: "/assets/img/testimonial/gym1.jpg",
+    img: "./assets/img/testimonial/gym1.jpg",
     message:
       "I recently joined this unisex gym, nice experience here, they will teach us from scratch and trainers are good and super supportive persons",
     name: "Devi ramakrishnaa",
   },
   {
-    img: "/assets/img/testimonial/gym2.jpg",
+    img: "./assets/img/testimonial/gym2.jpg",
     message:
       "Happy with the packages which are in affordable manner. seems trainers also friendly and supportive.",
     name: "Mourish",
   },
   {
-    img: "/assets/img/testimonial/gym3.jpg",
+    img: "./assets/img/testimonial/gym3.jpg",
     message:
       "I have recently joined here, the trainers are too friendly and they Guide the beginners very well.",
     name: "Ritthika Murugan",
