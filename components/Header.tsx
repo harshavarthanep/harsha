@@ -38,7 +38,7 @@ const Header = () => {
         {/* logo */}
         <Link href="">
           <Image
-            src={"public/assets/img/DAP_LOGO.png"}
+            src={"/assets/img/DAP_LOGO.png"}
             width={100}
             height={100}
             alt=""
