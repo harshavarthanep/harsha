@@ -21,7 +21,7 @@ export const metadata: Metadata = {
   title: "DAP fitness studio",
   description: "SCREW IT LET,S DO IT",
   icons: {
-    icon: "/favicon.ico",
+    icon: "./favicon.ico",
   },
 };
 
