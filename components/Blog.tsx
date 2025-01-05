@@ -12,7 +12,7 @@ import SwiperNavButton from "./SwiperNavButton";
 
 const blogData = [
   {
-    img: "/assets/img/blog/goku1.jpg",
+    img: "./assets/img/blog/goku1.jpg",
     date: "Jan 01, 2025",
     title: "Unleash your inner Goku potential at DAP",
     href: "",
@@ -24,19 +24,19 @@ const blogData = [
     href: "",
   },
   {
-    img: "/assets/img/blog/dap3.jpg",
+    img: "./assets/img/blog/dap3.jpg",
     date: "Jan 01, 2025",
     title: "Your fitness journey begins here.",
     href: "",
   },
   {
-    img: "/assets/img/blog/dap2.jpg",
+    img: "./assets/img/blog/dap2.jpg",
     date: "Jan 01, 2025",
     title: "Maintain a perfect structure after workout",
     href: "",
   },
   {
-    img: "/assets/img/blog/dap4.jpg",
+    img: "./assets/img/blog/dap4.jpg",
     date: "Jan 01, 2025",
     title: "Your happy place is here. Let's train!",
     href: "",
