@@ -16,43 +16,43 @@ import SwiperNavButton from "./SwiperNavButton";
 
 const testimonialData = [
   {
-    img: "/assets/img/testimonial/gym1.jpg",
+    img: "./assets/img/testimonial/gym1.jpg",
     content:
       "Personalized fitness and nutrition coaching delivered right to your door. Our expert trainers will create a customized plan to help you reach your health goals.",
     title: "F&N Coaching Online",
   },
   {
-    img: "/assets/img/testimonial/gym1.jpg",
+    img: "./assets/img/testimonial/gym1.jpg",
     content:
       "Experience the ultimate in personalized training. Our high-ticket personal training programs offer exclusive access to top trainers and cutting-edge techniques.",
     title: "Hi Ticket PT",
   },
   {
-    img: "/assets/img/testimonial/gym3.jpg",
+    img: "./assets/img/testimonial/gym3.jpg",
     content:
       "Build a strong, muscular physique naturally. Learn about the principles of natural bodybuilding, including proper nutrition, training, and supplementation.",
     title: "Natural Body Building",
   },
   {
-    img: "/assets/img/testimonial/gym2.jpg",
+    img: "./assets/img/testimonial/gym2.jpg",
     content:
       "Get the best of both worlds with our semi-private training. Train with a small group of like-minded individuals while receiving personalized coaching from a certified trainer.",
     title: "Semi Personal Training",
   },
   {
-    img: "/assets/img/testimonial/gym3.jpg",
+    img: "./assets/img/testimonial/gym3.jpg",
     content:
       "Join our virtual fitness community and workout from the comfort of your own home. Our live and on-demand group classes offer a variety of workouts to suit all fitness levels.",
     title: "Virtual Group Training",
   },
   {
-    img: "/assets/img/testimonial/gym2.jpg",
+    img: "./assets/img/testimonial/gym2.jpg",
     content:
       "Discover the power of food with our expert nutritionists. We'll help you create a sustainable eating plan that fits your lifestyle and supports your well-being.",
     title: "Nutrition Coaching",
   },
   {
-    img: "/assets/img/testimonial/gym3.jpg",
+    img: "./assets/img/testimonial/gym3.jpg",
     content:
       "Discover the healing power of movement. Our programs are designed to help you recover from injuries, manage chronic pain, and improve your quality of life.",
     title: "Healing Process",
