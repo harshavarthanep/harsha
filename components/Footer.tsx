@@ -55,7 +55,7 @@ const Footer = () => {
           <div className="flex flex-col gap-4">
             <Link href="">
               <Image
-                src="/assets/img/DAP_LOGO.png"
+                src="./assets/img/DAP_LOGO.png"
                 width={100}
                 height={100}
                 alt="DAP Logo"
@@ -128,7 +128,7 @@ const Footer = () => {
             <div className="relative w-full max-w-xs md:max-w-md lg:max-w-lg h-[200px] md:h-[300px]">
               <a href="https://maps.app.goo.gl/6dDcpfzJEMmspv2X8">
               <Image
-                src="/assets/img/contact/map.png"
+                src="./assets/img/contact/map.png"
                 alt="Location map"
                 layout="fill"
                 objectFit="cover"
