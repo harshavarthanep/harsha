@@ -43,19 +43,19 @@ const testimonialData = [
     name: "Ritthika Murugan",
   },
   // {
-  //   img: "/assets/img/testimonial/lucy.jpg",
+  //   img: "./assets/img/testimonial/lucy.jpg",
   //   message:
   //     "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolorem corporis.",
   //   name: "Lucy Anthony",
   // },
   // {
-  //   img: "/assets/img/testimonial/lucy.jpg",
+  //   img: "./assets/img/testimonial/lucy.jpg",
   //   message:
   //     "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolorem corporis.",
   //   name: "Lucy Anthony",
   // },
   // {
-  //   img: "/assets/img/testimonial/lucy.jpg",
+  //   img: "./assets/img/testimonial/lucy.jpg",
   //   message:
   //     "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolorem corporis.",
   //   name: "Lucy Anthony",
