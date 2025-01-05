@@ -18,7 +18,7 @@ const blogData = [
     href: "",
   },
   {
-    img: "/assets/img/blog/dap1.jpg",
+    img: "./assets/img/blog/dap1.jpg",
     date: "Jan 01, 2025",
     title: "Embrace the challenge. Let's do it!",
     href: "",
