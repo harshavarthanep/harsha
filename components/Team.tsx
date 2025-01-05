@@ -6,7 +6,7 @@ import Image from "next/image";
 
 const trainerData = [
   {
-    image: "public/assets/img/trainers/david.jpg",
+    image: "/assets/img/trainers/david.jpg",
     name: "Prasanth",
     role: "Body builder coach",
     description: "He'll push you to your limits and help you achieve your goals.",
